@@ -1,1 +1,1 @@
-# trash-shooter
+# trash-shooter-game
